@@ -8,7 +8,7 @@ Install the dependencies:
 npm i
 ```
 
-In Tabletop Playground attach the the script `command_chat.js`. After reloading the scripts you can start typing commands in the chat.
+In Tabletop Playground attach the the script `command_chat.js` to a game object. After reloading the scripts you can start typing commands in the chat.
 
 Currently only `/roll` is supported. If you have ideas for more commands, request them in an issue.
 
